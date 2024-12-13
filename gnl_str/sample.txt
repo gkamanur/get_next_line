@@ -1,0 +1,3 @@
+Here's an example of a main function to test the get_next_line function, 
+commonly used in C programming for file handling tasks. The get_next_line 
+function is typically used to read lines from a file descriptor one at a time.
